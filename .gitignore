@@ -4,7 +4,8 @@ work_dirs/
 wandb/
 mmdet/
 submission/
-
+.idea
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
